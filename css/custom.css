@@ -1,0 +1,7 @@
+/* 
+Override all the changes of style.css here. Do not make direct changes to that file.
+*/
+
+div.subscribe-2 {
+	width:32% !important;
+}
